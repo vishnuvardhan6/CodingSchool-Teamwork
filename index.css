@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap'); 
+
+.common {
+    border: 3px solid black;
+    height: 30vh; 
+}
+
+.one {
+    background-color: whitesmoke;
+    height: 7vh;
+}
+.two {
+    
+}
+.three {
+    background-color: white;
+    height: 70vh;
+}
+
+#heading {
+    font-family: 'Tilt Prism', cursive;
+    font-size: 70px;
+}
+
+#random {
+    text-align: justify;
+    width: 80%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.four {
+    background-color: white;
+}
+.five {
+    background-color: brown;
+}
+
+.five h1 {
+    color: white;
+}
+
+.one li {
+    display: inline;
+    padding: 20px;
+
+}
+.one a {
+    text-decoration: none;
+}
