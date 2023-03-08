@@ -3,7 +3,7 @@
 
 .common {
     border: 3px solid black;
-    height: 30vh; 
+
 }
 
 .one {
@@ -11,7 +11,11 @@
     height: 7vh;
 }
 .two {
-    
+    background-color: whitesmoke; 
+}
+.two img {
+    width: 50%;
+
 }
 .three {
     background-color: white;
@@ -34,13 +38,14 @@
     background-color: white;
 }
 .five {
-    background-color: brown;
+    background-color: rgb(151, 0, 3);
 }
-
-.five h1 {
+.five h3 {
     color: white;
 }
-
+.five p {
+    color: white;
+}
 .one li {
     display: inline;
     padding: 20px;
