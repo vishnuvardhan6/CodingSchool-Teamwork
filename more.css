@@ -1,0 +1,16 @@
+.common {
+    border: 3px solid black;
+}
+.one {
+    background-color: whitesmoke;
+    height: 7vh;
+}
+
+.one li {
+    display: inline;
+    padding: 20px;
+
+}
+.one a {
+    text-decoration: none;
+}
