@@ -19,7 +19,7 @@
 }
 .three {
     background-color: white;
-    height: 70vh;
+    height: 90vh;
 }
 
 #heading {
@@ -39,6 +39,7 @@
 }
 .five {
     background-color: rgb(151, 0, 3);
+    padding: 30px;
 }
 .five h3 {
     color: white;
@@ -53,4 +54,23 @@
 }
 .one a {
     text-decoration: none;
+}
+
+
+.wingnames {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.wing {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    width: 30%;
 }
