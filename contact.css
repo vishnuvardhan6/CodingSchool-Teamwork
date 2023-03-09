@@ -14,3 +14,33 @@
 .one a {
     text-decoration: none;
 }
+
+
+.five {
+    background-color: rgb(151, 0, 3);
+    padding: 30px;
+}
+.five h3 {
+    color: white;
+}
+.five p {
+    color: white;
+}
+
+.two {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    height: 70vh;
+}
+
+.two-inner {
+    border: 2px solid black;
+    color: rgb(151, 0, 3);
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: whitesmoke;
+    margin-top: 10%;
+}
